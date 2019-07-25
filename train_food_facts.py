@@ -14,10 +14,10 @@ from yolo3.utils import get_random_data
 
 
 def _main():
-    annotation_path = 'train.txt'
-    log_dir = 'logs/000/'
-    classes_path = 'model_data/coco_classes.txt'
-    anchors_path = 'model_data/yolo_anchors.txt'
+    annotation_path = 'train_food_facts.txt'
+    log_dir = 'logs_ff/000/'
+    classes_path = 'model_data/food_facts_classes.txt'
+    anchors_path = 'model_data/food_facts_anchors.txt'
     class_names = get_classes(classes_path)
     num_classes = len(class_names)
     anchors = get_anchors(anchors_path)

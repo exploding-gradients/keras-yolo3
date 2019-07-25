@@ -1,0 +1,75 @@
+/data/tmp/toothpastes/US_toothpastes/P9922639_Optic_White_Stainfighter_Clean_Mint_4_2oz_Twin_Pack_RtV1-1.jpeg 2010,1806,2541,2212,0 1255,1797,2011,2215,0
+/data/tmp/toothpastes/US_toothpastes/P9922593_Enamel_Health_TP_Whitening_6oz_Carton_US.jpeg 1460,1875,2335,2314,0 2331,1862,3187,2307,0
+/data/tmp/toothpastes/US_toothpastes/P9919886_Enamel_Health_TP_Sensitive_5p5oz_Carton_US.jpeg 1437,1452,2319,1886,0 2309,1447,3171,1880,0
+/data/tmp/toothpastes/US_toothpastes/P9919884_Enamel_Health_TP_Sensitive_4oz_Carton_US.jpeg 1541,1454,2289,1892,0 2275,1444,3042,1887,0
+/data/tmp/toothpastes/US_toothpastes/P9920495_Sams_Total_Whitening_B4G1_7.8oz_5pak_Overwrap_RtV1.jpeg 937,1250,1477,2331,0 914,2297,1462,3445,0
+/data/tmp/toothpastes/US_toothpastes/8575_2017_Silly_Strawberry_Sample_Card_r3v2-1.jpeg 98,598,771,973,0 764,598,1567,952,0
+/data/tmp/toothpastes/US_toothpastes/P9919903_Enamel_Health_TP_Mineral_Repair_4oz_Carton_US.jpeg 1855,373,2589,815,0 2594,392,3346,807,0
+/data/tmp/toothpastes/US_toothpastes/P9918065_Total_Fresh_Mint_Gel_7p8oz_Ctn_US.jpeg 1291,2126,2371,2666,0 2366,2122,3506,2677,0
+/data/tmp/toothpastes/US_toothpastes/P9918019_Total_Whitening_Paste_4p2oz_Ctn_US.jpeg 1322,2046,2070,2542,0 2055,2046,2838,2542,0
+/data/tmp/toothpastes/US_toothpastes/P9921132_Total_Clean_Between_5p8oz_Ctn_US.jpeg 1273,2251,2157,2697,0 2151,2255,3061,2712,0
+/data/tmp/toothpastes/US_toothpastes/19527_Total_Whitening_GEL_5pack_80118_PREVIEW.jpeg 3004,1648,3676,2146,0 2192,1637,3027,2147,0 1554,1648,2201,2146,0
+/data/tmp/toothpastes/US_toothpastes/P9922757_Enamel_Health_TP_Sensi_6oz_Carton_US_SS.jpeg 1453,1875,2341,2320,0 2331,1875,3200,2320,0
+/data/tmp/toothpastes/US_toothpastes/19527_Colgate_WMT_Total_3Pack_Gel_P9929422_81418.jpeg 2507,838,3044,1248,0 1841,846,2518,1262,0 1287,846,1844,1262,0
+/data/tmp/toothpastes/US_toothpastes/P9922621_Enamel_Health_TP_Whitening_6oz_2PK_Carton_US.jpeg 1473,2207,2349,2656,0 2366,2226,3209,2656,0
+/data/tmp/toothpastes/US_toothpastes/P9919418_Sams_MaxFresh_7.8oz_4pk_Overwrap_UPDATE_RtV1.jpeg 677,1061,1104,2055,0 677,2052,1104,3154,0
+/data/tmp/toothpastes/US_toothpastes/O_PCFT_P9930689_USA_Ctn.jpeg 765,2015,1430,2374,0 1417,2009,2163,2377,0
+/data/tmp/toothpastes/US_toothpastes/P9918066_Total_Whitening_Gel_7p8oz_Ctn_US.jpeg 1202,2126,2292,2666,0 2283,2126,3412,2666,0
+/data/tmp/toothpastes/US_toothpastes/P9921654_Total_Adv_Fresh_Whitening_0p75oz_US_Ctn.jpeg 1850,1347,2965,1644,0
+/data/tmp/toothpastes/US_toothpastes/O_SWLT_4_P9929335_USA_CTN.jpeg 1015,2006,1674,2380,0 1664,2000,2409,2381,0
+/data/tmp/toothpastes/US_toothpastes/19527_Total_ADVANCED_Whitening_5pack_80118_PREVIEW.jpeg 3018,1644,3698,2149,0 2204,1639,3034,2130,0 1569,1655,2214,2155,0
+/data/tmp/toothpastes/US_toothpastes/O_WWT4-7_P9920328_USA_Ctn.jpeg 1008,2009,1761,2388,0 1750,2007,2638,2362,0
+/data/tmp/toothpastes/US_toothpastes/P9919881_Enamel_Health_TP_Sensitive_0p85oz_Carton_US.jpeg 1919,1468,3139,1785,0
+/data/tmp/toothpastes/US_toothpastes/[19023]P9924238_cp_PeppaPigEasterRegimen_120117.jpeg 2343,3614,3053,4484,0 3438,3529,4193,4539,0
+/data/tmp/toothpastes/US_toothpastes/P9922635_Total_AdvDC_5-8oz_2pak_Frnt_Lbl_RtV1_(1)-1.jpeg 1787,761,2669,1233,0 883,762,1793,1238,0 1778,1347,2665,1822,0 870,1346,1788,1817,0
+/data/tmp/toothpastes/US_toothpastes/P9919904_Enamel_Health_TP_Multi_Prot_7p2oz_Carton_US.jpeg 1412,1552,2462,1981,0 2457,1547,3522,1981,0
+/data/tmp/toothpastes/US_toothpastes/19527_Total_Whitening_GEL_5pack_80218_PREVIEW.jpeg 3023,1634,3683,2110,0 2203,1635,3028,2125,0 1553,1635,2213,2125,0
+/data/tmp/toothpastes/US_toothpastes/P9920096_MaxFresh_Cool_Mint_7p6oz_Carton_US.jpeg 1336,1895,2306,2324,0 2301,1890,3402,2329,0
+/data/tmp/toothpastes/US_toothpastes/P9919901_Enamel_Health_TP_Multi_Prot_4oz_Carton_US.jpeg 1546,1448,2284,1887,0 2284,1458,3051,1882,0
+/data/tmp/toothpastes/US_toothpastes/P9921831_Colgate_MaxFresh_Cool_Mint_6oz_Ctn.jpeg 1374,2119,2094,2579,0 2083,2118,2963,2573,0
+/data/tmp/toothpastes/US_toothpastes/P9920099_MaxFresh_Cool_Mint_7p6oz_Tube_US.jpeg 1475,1619,2545,1907,0 2550,1629,3585,1897,0
+/data/tmp/toothpastes/US_toothpastes/19979_MaxFresh_KO_3_Pack_COMP_100418.jpeg 689,1150,1127,1866,0 682,1871,1134,2730,0
+/data/tmp/toothpastes/US_toothpastes/P9921588_Walmart_Total_Whitening_PASTE_6oz_3Pack_Overwrap_RtV1.jpeg 1030,1237,1490,2204,0 1037,2173,1504,3198,0
+/data/tmp/toothpastes/US_toothpastes/19527_Colgate_Total_Clean_Mint_2PACK_Label_81518-1.jpeg 2515,786,3068,1272,0 3054,781,3588,1243,0 3579,777,4312,1136,0 2526,1337,3072,1791,0 3058,1330,3584,1796,0 3582,1322,4320,1676,0
+/data/tmp/toothpastes/US_toothpastes/P9922622_Enamel_Health_TP_Whitening_6oz_Tube_US.jpeg 1479,1505,3143,2085,0
+/data/tmp/toothpastes/US_toothpastes/P9922599_Enamel_Health_TP_MP_6oz_Carton_US.jpeg 1447,1868,2341,2301,0 2337,1862,3194,2320,0
+/data/tmp/toothpastes/US_toothpastes/P9918576_Total_Clean_Mint_Paste_6oz_Twin_Ctn_US.jpeg 2717,3154,3586,3619,0 1792,3149,2721,3609,0 1792,2575,2721,3025,0 2726,2575,3576,3020,0
+/data/tmp/toothpastes/US_toothpastes/P9920726_MaxFresh_7.6oz_5pack_Overwrap_RtV1.jpeg 906,1227,1346,2191,0 913,2189,1346,3299,0
+/data/tmp/toothpastes/US_toothpastes/P9922756_Enamel_Health_TP_Whitening_6oz_Carton_US_SS.jpeg 1459,1857,2287,2338,0 2271,1857,3205,2332,0
+/data/tmp/toothpastes/US_toothpastes/P9921587_Walmart_Total_Whitening_GEL_6oz_3Pack_Overwrap_RtV1.jpeg 911,1115,1371,2068,0 904,2028,1386,3053,0
+/data/tmp/toothpastes/US_toothpastes/P9922564_Hydris_TP_4p5oz_CTN_US.jpeg 1556,1525,2362,1978,0 2356,1538,3147,1968,0
+/data/tmp/toothpastes/US_toothpastes/P9922624_Enamel_Health_TP_MP_6oz_Tube_US.jpeg 1497,1517,3143,2073,0
+/data/tmp/toothpastes/US_toothpastes/19527_Total_Whitening_PASTE_5pack_80118_PREVIEW.jpeg 3018,1648,3681,2134,0 2206,1641,3023,2128,0 1559,1648,2216,2134,0
+/data/tmp/toothpastes/US_toothpastes/P9922566_Hydris_TP_4p5oz_Tube_US.jpeg 1833,1508,3068,2010,0
+/data/tmp/toothpastes/US_toothpastes/P9920506_Sams_Total_Whitening_Paste_7.8oz_4pak_OW_RtV1.jpeg 1453,1235,1993,2314,0 1452,2304,2015,3453,0
+/data/tmp/toothpastes/US_toothpastes/[19515]P9926951_cp_KidsMinionsRegimenRevised_032218.jpeg 2998,3758,3700,4602,0 4090,3833,4858,4785,0
+/data/tmp/toothpastes/US_toothpastes/P9919902_Enamel_Health_TP_Whitening_1p8oz_Carton_US.jpeg 1529,1396,2735,1689,0
+/data/tmp/toothpastes/US_toothpastes/19527_Colgate_WMT_Total_3Pack_PASTE_P9929424_81418.jpeg 2514,852,3064,1289,0 1841,859,2518,1282,0 1307,866,1857,1282,0
+/data/tmp/toothpastes/US_toothpastes/P9921652_Total_Clean_Mint_Paste_p75oz_Ctn_US.jpeg 1946,1587,2902,1935,0
+/data/tmp/toothpastes/US_toothpastes/P9921659_Total_Whitening_Paste_1p9oz_Ctn_US.jpeg 1263,1796,2052,2114,0 2037,1784,2782,2119,0
+/data/tmp/toothpastes/US_toothpastes/P9921861_OW_IcyFresh_5oz_TwinPak_FrntLbl_RtV1-1.jpeg 2594,1687,3199,2129,0 1601,1683,2599,2133,0
+/data/tmp/toothpastes/US_toothpastes/P9921830_Colgate_MaxFresh_Clean_Mint_6oz_Ctn.jpeg 1374,2113,2094,2578,0 2083,2108,2953,2573,0
+/data/tmp/toothpastes/US_toothpastes/P9917807_Total_Daily_Repair_4oz_Ctn_US.jpeg 1322,2060,2003,2532,0 1990,2061,2690,2538,0
+/data/tmp/toothpastes/US_toothpastes/P9921134_Total_Clean_Between_4oz_Ctn_US.jpeg 1322,2053,1999,2525,0 1993,2053,2703,2530,0
+/data/tmp/toothpastes/US_toothpastes/[18980]cp_KidsTrollsMinionsEasterRegimen_120117-1.jpeg 3115,3545,3815,4405,0 4215,3594,4960,4604,0
+/data/tmp/toothpastes/US_toothpastes/[18980]cp_KidsTrollsMinionsEasterRegimen_120117-0.jpeg 3025,3528,3677,4388,0 4092,3578,4868,4598,0
+/data/tmp/toothpastes/US_toothpastes/P9919882_Enamel_Health_TP_Whitening_4oz_Carton_US.jpeg 1547,1444,3033,1887,0
+/data/tmp/toothpastes/US_toothpastes/19527_Colgate_WMT_Total_3Pack_CleanMintPASTE_P9929990_81418.jpeg 2512,847,3055,1268,0 1839,855,2522,1262,0 1308,854,1855,1268,0
+/data/tmp/toothpastes/US_toothpastes/P9922632_MaxClean_Mint_TP_Twin_Pack_Label-RTV1-1.jpeg 1173,649,1919,1104,0 1915,656,2822,1105,0 1173,1218,1928,1666,0 1915,1217,2818,1662,0
+/data/tmp/toothpastes/US_toothpastes/P9917805_Total_Daily_Repair_5p8oz_Ctn_US.jpeg 1414,2323,2279,2761,0 2285,2318,3196,2766,0
+/data/tmp/toothpastes/US_toothpastes/P9922758_Enamel_Health_TP_MP_6oz_Carton_US_SS.jpeg 1460,1881,2341,2308,0 2325,1881,3181,2314,0
+/data/tmp/toothpastes/US_toothpastes/O_PWLT1_075_P9930946_USA_CTN.jpeg 1288,686,2417,1059,0 1288,1099,2417,1364,0
+/data/tmp/toothpastes/US_toothpastes/P9922999_Wal_OW_HighImpact_TP_ActisTBpen_BeautyBox_RtV1.jpeg 4609,2317,4968,2827,0 4609,2818,4962,3547,0
+/data/tmp/toothpastes/US_toothpastes/P9919887_Enamel_Health_TP_Whitening_0p85oz_Carton_US.jpeg 1968,1484,2952,1772,0
+/data/tmp/toothpastes/US_toothpastes/P9919883_Enamel_Health_TP_Whitening_5p5oz_Carton_US.jpeg 1438,1446,2305,1894,0 2295,1447,3163,1904,0
+/data/tmp/toothpastes/US_toothpastes/19527_Colgate_Total_Whitening_Paste_2PACK_Label_81518-1.jpeg 2470,798,3004,1264,0 3002,798,3548,1269,0 3539,798,4260,1124,0 2474,1335,3008,1777,0 3010,1331,3528,1773,0 3542,1331,4264,1657,0
+/data/tmp/toothpastes/US_toothpastes/P9922747_Walmart_Ultrabrite_TP_6oz_Reg_2pk_RtV1-1.jpeg 2323,1170,3466,1654,0 1212,1178,2344,1643,0 1218,673,2343,1142,0 2330,666,3444,1151,0
+/data/tmp/toothpastes/US_toothpastes/P9922598_Enamel_Health_TP_Sensi_6oz_Carton_US.jpeg 1460,1869,2329,2296,0 2337,1881,3187,2308,0
+/data/tmp/toothpastes/US_toothpastes/P9921133_Total_Clean_Between_0p75oz_Ctn_US.jpeg 1930,1480,3061,1769,0
+/data/tmp/toothpastes/US_toothpastes/19979_MaxClean_SmartFoam_3_Pack_Overwrap_100418.jpeg 707,1148,1116,1943,0 699,1917,1117,2736,0
+/data/tmp/toothpastes/US_toothpastes/20055_Costco_Optic_White_Sustainable_Pack_110518.jpeg 3619,3128,4204,3548,0 4194,3128,5131,3556,0
+/data/tmp/toothpastes/US_toothpastes/O_PWGT4-7_P9927168_USA_Ctn.jpeg 1011,2012,1747,2390,0 1737,2009,2612,2388,0
+/data/tmp/toothpastes/US_toothpastes/P9922625_Enamel_Health_TP_Whitening_p85oz_Tube_US.jpeg 1695,1910,2433,1995,0
+/data/tmp/toothpastes/US_toothpastes/P9918016_Total_Clean_Mint_Paste_1p9oz_Ctn_US.jpeg 1247,1788,2039,2111,0 2029,1793,2772,2114,0
+/data/tmp/toothpastes/US_toothpastes/P9922759_Enamel_Health_TP_Whitening_6oz_2PK_Carton_US_SS.jpeg 1480,2200,2296,2663,0 2279,2200,3189,2657,0
+/data/tmp/toothpastes/US_toothpastes/19527_Colgate_Total_Daily_Repair_2Pack_label_81518-1.jpeg 2482,794,3101,1256,0 3095,798,3853,1260,0 3843,798,4440,1256,0 2486,1320,3105,1773,0 3091,1324,3845,1765,0 3838,1320,4453,1773,0
