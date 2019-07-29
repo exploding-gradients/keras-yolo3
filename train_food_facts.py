@@ -13,11 +13,23 @@ from yolo3.model import preprocess_true_boxes, yolo_body, tiny_yolo_body, yolo_l
 from yolo3.utils import get_random_data
 
 
+from keras.backend.tensorflow_backend import set_session
+from keras.backend.tensorflow_backend import clear_session
+from keras.backend.tensorflow_backend import get_session
+import tensorflow
+
+# Reset Keras Session
+def reset_keras():
+    sess = get_session()
+    clear_session()
+    sess.close()
+    sess = get_session()
+
 def _main():
-    annotation_path = 'train_food_facts.txt'
-    log_dir = 'logs_ff/000/'
+    annotation_path = 'data/resized_combined.txt'
+    log_dir = '/data/tmp/logs_ff/002/'
     classes_path = 'model_data/food_facts_classes.txt'
-    anchors_path = 'model_data/food_facts_anchors.txt'
+    anchors_path = 'model_data/resized_food_facts_anchors.txt'
     class_names = get_classes(classes_path)
     num_classes = len(class_names)
     anchors = get_anchors(anchors_path)
@@ -173,13 +185,19 @@ def data_generator(annotation_lines, batch_size, input_shape, anchors, num_class
         for b in range(batch_size):
             if i==0:
                 np.random.shuffle(annotation_lines)
-            try:
-                image, box = get_random_data(annotation_lines[i], input_shape, random=True)
-                image_data.append(image)
-                box_data.append(box)
-                i = (i+1) % n
-            except Exception as e:
-                print(e)
+            while True:
+                try:
+                    image, box = get_random_data(annotation_lines[i], input_shape, random=True)
+                    image_data.append(image)
+                    #print("Box", annotation_lines[i], box)
+                    box_data.append(box)
+                    i = (i+1) % n
+                    # keep trying until you find one
+                    break
+                except Exception as e:
+                    print("Image Exception",annotation_lines[i], input_shape, e)
+                    i = (i+1) % n
+                    
         print("Batch len {}".format(len(image_data)))
         image_data = np.array(image_data)
         box_data = np.array(box_data)
@@ -192,4 +210,5 @@ def data_generator_wrapper(annotation_lines, batch_size, input_shape, anchors, n
     return data_generator(annotation_lines, batch_size, input_shape, anchors, num_classes)
 
 if __name__ == '__main__':
+    reset_keras()
     _main()

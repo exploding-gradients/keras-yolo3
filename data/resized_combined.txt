@@ -1,0 +1,343 @@
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9919484_OW_Radiant_WAL_PDQ_Tray_RtV1.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/19527_Colgate_Total_Whitening_Paste_2PACK_Label_81518-0.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9921295_WAL_Genie_EH_Total_Sidekick_RtV1-3.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9921835_Hydris_TP_4p5oz_CTN_US_SS_Plano.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/17G41343.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9920473_CVS_InvisibleNasties_MTB_QSE-TB_DIV_RtV1-1.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/19947_MaxFresh_3Pack_Labels_91918-1.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/374747_P1_Pc.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9919826_Walmart_Radiant_ECTV_Endcap_RtV1-6.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/O_CWT4_P9929329_USA_tube.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/305282_Toothpaste.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/188701_Production_Art-4.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9920473_CVS_InvisibleNasties_MTB_QSE-TB_DIV_RtV1-2.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9919826_Walmart_Radiant_ECTV_Endcap_RtV1-0.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/189678_SRP.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/191156_Label.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/19527_Colgate_BJs_Total_Overwrap_4PACK_PASTE_P9927009_22818.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/189684_Label.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/O_FQTT5-5_P9930977_USA_tube.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/188701_Production_Art-0.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/383709_P1_Pc_209699.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9921833_Hydris_TP_4p5oz_CTN_US_SS.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/19824_PMX06447037_Colgate_Base_BSPW_6oz_3pack_61218.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/187508_Label.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/191688_SRP.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9922743_BSPW_Frosty_Mint_Gel_6oz_2pk_RtV1-1.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9922755_Enamel_Health_TP_Whitening_6oz_2PK_carton_US_SS_POG.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/189689_Label.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9921295_WAL_Genie_EH_Total_Sidekick_RtV1-1.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/18G02123.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9920473_CVS_InvisibleNasties_MTB_QSE-TB_DIV_RtV1-5.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/19527_Colgate_Trial_Size_4PACK_Labels_P9929239_72318-1.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/373779_P1_Pc.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/O_FPQT5-5_P9930936_USA_tube.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/19527_Colgate_Total_Daily_Repair_2Pack_label_81518-0.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/17G42331.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/19527_Colgate_Trial_Size_4PACK_Labels_P9929239_72318-0.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/188701_Production_Art-2.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/191688_Label.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9920473_CVS_InvisibleNasties_MTB_QSE-TB_DIV_RtV1-3.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/373844_P2_Pc.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/18790_Holiday_Pallet_MultiplePieces_90817-0.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9921943_OWHI_3oz_TwinPak_Lbls_RtV1-1.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9919826_Walmart_Radiant_ECTV_Endcap_RtV1-5.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/189681_SRP.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/18790_Holiday_Pallet_MultiplePieces_90817-3.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9922752_Enamel_Health_TP_Sensi_6oz_Carton_US_SS_POG.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9922743_BSPW_Frosty_Mint_Gel_6oz_2pk_RtV1-0.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9921943_OWHI_3oz_TwinPak_Lbls_RtV1-0.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9919826_Walmart_Radiant_ECTV_Endcap_RtV1-1.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/19527_Colgate_BJs_Total_Overwrap_4PACK_MINT_P9927008_22818.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/189660_SRP.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/O_PQTT1_P9930945_USA_Ctn.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/19527_Colgate_BJs_Total_Overwrap_4PACK_GEL_P9927090_22818.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/189658_Label.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/LL54222.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/O_AST4_USA_P9930982_TUBE.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9922639_Optic_White_Stainfighter_Clean_Mint_4_2oz_Twin_Pack_RtV1-0.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/O_PCNT_P9930772_USA_tube.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9921295_WAL_Genie_EH_Total_Sidekick_RtV1-0.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/17G41341.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/187508_SRP.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/O_PQTT5-5_P9922987_USA_Ctn.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9920701_Kroger_EH_Genie_Flrstnd_Riser_RtV1_(2).jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/181821-Prodart-0.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/O_SQTT5-5_P9930979_USA_tube.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/310018_P9925560_Large_Size.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/194870_Prodart-0.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/LL54220.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/310022_P9926500_Travel.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9921295_WAL_Genie_EH_Total_Sidekick_RtV1-4.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/O_SGT4-7_P9920323_USA_CTN.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9921319_EnamelHealth_TP_MTB_PDQtray_GrphPnl_RtV1-0.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/373785_P1_Pc.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/LL54216.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/189661_SRP.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/310012_P9925558_Family_Size.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/181820-Prodart-1.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/O_CPQT5-5_P9930972_USA_tube.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9922635_Total_AdvDC_5-8oz_2pak_Frnt_Lbl_RtV1_(1)-0.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9920473_CVS_InvisibleNasties_MTB_QSE-TB_DIV_RtV1-6.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/382755_P1_Pc_US06014A.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/187521_SRP.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9922325_Kids_Cavity_Protection_TP_2pk_Label-RtV1.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/192175_SIOC.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9918974_MF_Sams_PalletSkirt_Width_RtV1-01-1.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/19947_MaxFresh_3Pack_Labels_91918-0.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/189659_Label.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/20055_Costco_Optic_White_Tray_Insert_110518-1.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/17G38530.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9922754_Enamel_Health_TP_MP_6oz_Carton_US_SS_POG.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/189678_Label.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/194870_Prodart-1.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/19825_PMX06447035_Colgate_Base_GRF_6oz_3pack_61218.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/381081_P1_Pc_US05912A.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9921861_OW_IcyFresh_5oz_TwinPak_FrntLbl_RtV1-0.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/19527_Colgate_Total_Clean_Mint_2PACK_Label_81518-0.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/20055_Costco_Optic_White_Tray_Insert_110518-0.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9922632_MaxClean_Mint_TP_Twin_Pack_Label-RTV1-0.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/181821-Prodart-1.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/19947_MaxClean_3Pack_Labels_91918-0.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/189683_Label.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9920010_EH_Whitening_4oz_3pk_FT_Label_RtV1(1).jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/O_PCFT_P9930771_USA_tube.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9919826_Walmart_Radiant_ECTV_Endcap_RtV1-4.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/310013_P9926447_Family_Size.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/351503_P1_Pc_US05914A.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/O_PCNT_P9930770_USA_Ctn.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/8575_2017_Silly_Strawberry_Sample_Card_r3v2-0.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/19527_Colgate_Trial_Size_4PACK_Label_P9927131_30918.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/19527_Colgate_WMT_Total_3Pack_PASTE_P9927097_PREVIEW_30818.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9919826_Walmart_Radiant_ECTV_Endcap_RtV1-3.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9920473_CVS_InvisibleNasties_MTB_QSE-TB_DIV_RtV1-0.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/17G38028.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/18790_Holiday_Pallet_MultiplePieces_90817-2.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/373692_P2_Pc.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/383710_P1_Pc_209701.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9922018_WAL_OW_RADIANT_ECTV_PDQ_TRAY_RtV1.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/19947_MaxClean_3Pack_Labels_91918-1.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/O_CPQT5-5_P9930971_USA_Ctn.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/O_PWGT6_P9927167_USA_tube.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/188701_Production_Art-1.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/OC54236_SKU_US05623A.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/199466_P9927328_SIOC.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/189685_Label.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9919826_Walmart_Radiant_ECTV_Endcap_RtV1-2.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9918974_MF_Sams_PalletSkirt_Width_RtV1-01-0.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/O_PQTT5-5_P9930974_USA_Ctn.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9921319_EnamelHealth_TP_MTB_PDQtray_GrphPnl_RtV1-1.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9922747_Walmart_Ultrabrite_TP_6oz_Reg_2pk_RtV1-0.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/189669_SRP.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/385261_P2_Pc_US06053A.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/19527_Colgate_Trial_Size_4PACK_UPC_Coverup_P9927128_30918RB.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/LL53509.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9921295_WAL_Genie_EH_Total_Sidekick_RtV1-5.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/19826_PMX06447036_Colgate_Base_Triple_Action_6oz_3pack_61218.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/189660_Label.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/19527_Colgate_WMT_Total_3Pack_CleanMINT_P9927099_PREVIEW_30818.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/O_PQTT5-5_P9930975_USA_tube.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/181817-Prodart-0.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/188701_Production_Art-3.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/181817-Prodart-1.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/19G08308PC_US06052A.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/189669_Label.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/19527_Colgate_WMT_Total_3Pack_GEL_P9927098_PREVIEW_30818.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/189675_Label.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9919888_Enamel_Health_TP_Whitening_0p85oz_Tube_US.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/O_SPQT5-5_P9930938_USA_Ctn.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/385271_P1_Pc.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9922592_Enamel_Health_TP_Whitening_6oz_Carton_US_SS_POG.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/181820-Prodart-0.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/189681_Label.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/189679_Label.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/18790_Holiday_Pallet_MultiplePieces_90817-1.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9920473_CVS_InvisibleNasties_MTB_QSE-TB_DIV_RtV1-4.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/17G38244.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/189687_Label.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9921295_WAL_Genie_EH_Total_Sidekick_RtV1-2.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/191677_Label.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/O_AST4_USA_P9930981_CTN.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/O_FPQT5-5_P9930935_USA_Ctn.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/O_SPQT5-5_P9930970_USA_tube.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/LL54224.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/383708_P1_Pc_209697.jpeg 0,0,1,1,0
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9921132_Total_Clean_Between_5p8oz_Ctn_US.jpeg 99,179,180,224,1 170,179,254,226,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9919902_Enamel_Health_TP_Whitening_1p8oz_Carton_US.jpeg 120,109,227,142,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9922747_Walmart_Ultrabrite_TP_6oz_Reg_2pk_RtV1-1.jpeg 181,89,281,137,1 92,89,192,136,1 92,49,192,96,1 181,48,280,96,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9921587_Walmart_Total_Whitening_GEL_6oz_3Pack_Overwrap_RtV1.jpeg 40,50,72,107,1 40,95,73,155,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/19979_MaxFresh_KO_3_Pack_COMP_100418.jpeg 35,62,70,113,1 35,104,70,164,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9922593_Enamel_Health_TP_Whitening_6oz_Carton_US.jpeg 103,134,177,176,1 168,133,241,175,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9919883_Enamel_Health_TP_Whitening_5p5oz_Carton_US.jpeg 108,108,185,153,1 175,108,252,154,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/8575_2017_Silly_Strawberry_Sample_Card_r3v2-1.jpeg 13,99,137,172,1 128,99,275,169,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9921134_Total_Clean_Between_4oz_Ctn_US.jpeg 103,162,167,210,1 158,162,225,210,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/O_SWLT_4_P9929335_USA_CTN.jpeg 96,194,170,240,1 160,193,243,240,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/19527_Colgate_Total_Daily_Repair_2Pack_label_81518-1.jpeg 159,47,210,87,1 200,48,260,87,1 250,48,298,87,1 160,82,210,121,1 200,82,259,121,1 249,82,299,121,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9919418_Sams_MaxFresh_7.8oz_4pk_Overwrap_UPDATE_RtV1.jpeg 28,46,58,104,1 28,94,58,158,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9919887_Enamel_Health_TP_Whitening_0p85oz_Carton_US.jpeg 155,116,245,149,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9919881_Enamel_Health_TP_Sensitive_0p85oz_Carton_US.jpeg 152,115,260,150,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/19527_Total_Whitening_GEL_5pack_80218_PREVIEW.jpeg 133,69,173,101,1 95,69,143,101,1 66,69,105,101,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9922756_Enamel_Health_TP_Whitening_6oz_Carton_US_SS.jpeg 103,133,174,178,1 163,133,242,177,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/19527_Total_ADVANCED_Whitening_5pack_80118_PREVIEW.jpeg 133,70,173,103,1 95,70,143,102,1 66,70,105,103,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/O_PWGT4-7_P9927168_USA_Ctn.jpeg 95,195,177,241,1 167,194,263,241,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9920495_Sams_Total_Whitening_B4G1_7.8oz_5pak_Overwrap_RtV1.jpeg 33,45,64,98,1 32,87,63,143,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9920506_Sams_Total_Whitening_Paste_7.8oz_4pak_OW_RtV1.jpeg 53,45,85,98,1 53,88,86,144,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9922622_Enamel_Health_TP_Whitening_6oz_Tube_US.jpeg 116,118,261,174,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9920096_MaxFresh_Cool_Mint_7p6oz_Carton_US.jpeg 97,140,181,182,1 171,140,265,182,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9920726_MaxFresh_7.6oz_5pack_Overwrap_RtV1.jpeg 31,44,59,93,1 32,83,59,137,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9918065_Total_Fresh_Mint_Gel_7p8oz_Ctn_US.jpeg 96,161,189,212,1 180,160,278,213,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9921654_Total_Adv_Fresh_Whitening_0p75oz_US_Ctn.jpeg 146,105,246,138,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9922635_Total_AdvDC_5-8oz_2pak_Frnt_Lbl_RtV1_(1)-1.jpeg 169,69,263,124,1 81,69,178,124,1 168,126,263,181,1 80,126,178,181,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/[18980]cp_KidsTrollsMinionsEasterRegimen_120117-0.jpeg 99,117,132,156,1 136,118,173,163,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/19979_MaxClean_SmartFoam_3_Pack_Overwrap_100418.jpeg 36,62,69,118,1 36,107,69,164,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/19527_Total_Whitening_GEL_5pack_80118_PREVIEW.jpeg 132,70,172,102,1 95,70,143,102,1 66,70,105,102,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9922566_Hydris_TP_4p5oz_Tube_US.jpeg 145,118,254,168,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9922999_Wal_OW_HighImpact_TP_ActisTBpen_BeautyBox_RtV1.jpeg 245,120,274,158,1 245,148,273,197,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9920099_MaxFresh_Cool_Mint_7p6oz_Tube_US.jpeg 115,127,212,160,1 203,128,297,159,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9918019_Total_Whitening_Paste_4p2oz_Ctn_US.jpeg 103,162,173,212,1 163,162,236,212,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9922621_Enamel_Health_TP_Whitening_6oz_2PK_Carton_US.jpeg 107,163,183,207,1 175,165,249,207,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9919886_Enamel_Health_TP_Sensitive_5p5oz_Carton_US.jpeg 108,109,186,152,1 176,108,253,152,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/19527_Colgate_Total_Clean_Mint_2PACK_Label_81518-1.jpeg 177,52,227,96,1 217,52,265,94,1 255,51,317,86,1 178,92,227,134,1 217,91,264,134,1 255,91,318,126,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9917805_Total_Daily_Repair_5p8oz_Ctn_US.jpeg 110,184,190,229,1 181,184,265,229,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9922632_MaxClean_Mint_TP_Twin_Pack_Label-RTV1-1.jpeg 127,68,219,128,1 210,69,321,128,1 127,132,221,191,1 210,132,320,191,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9922759_Enamel_Health_TP_Whitening_6oz_2PK_Carton_US_SS.jpeg 108,163,179,207,1 169,163,247,207,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/19527_Colgate_WMT_Total_3Pack_PASTE_P9929424_81418.jpeg 154,49,198,85,1 111,49,163,85,1 77,49,121,85,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9922625_Enamel_Health_TP_Whitening_p85oz_Tube_US.jpeg 133,151,203,167,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/[19515]P9926951_cp_KidsMinionsRegimenRevised_032218.jpeg 102,130,137,169,1 141,132,179,176,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/19527_Total_Whitening_PASTE_5pack_80118_PREVIEW.jpeg 133,70,173,102,1 96,70,142,102,1 66,70,106,102,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9918066_Total_Whitening_Gel_7p8oz_Ctn_US.jpeg 91,165,188,218,1 178,165,277,218,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9922757_Enamel_Health_TP_Sensi_6oz_Carton_US_SS.jpeg 103,134,178,176,1 168,134,242,176,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9921652_Total_Clean_Mint_Paste_p75oz_Ctn_US.jpeg 154,124,241,162,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9917807_Total_Daily_Repair_4oz_Ctn_US.jpeg 103,163,168,211,1 157,163,224,211,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9919903_Enamel_Health_TP_Mineral_Repair_4oz_Carton_US.jpeg 146,25,215,71,1 206,27,277,70,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/[18980]cp_KidsTrollsMinionsEasterRegimen_120117-1.jpeg 102,117,136,157,1 141,119,176,164,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9922639_Optic_White_Stainfighter_Clean_Mint_4_2oz_Twin_Pack_RtV1-1.jpeg 191,171,252,220,1 117,170,200,220,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9922624_Enamel_Health_TP_MP_6oz_Tube_US.jpeg 117,119,261,173,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9919904_Enamel_Health_TP_Multi_Prot_7p2oz_Carton_US.jpeg 98,108,184,149,1 174,108,261,149,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/20055_Costco_Optic_White_Sustainable_Pack_110518.jpeg 124,106,155,131,1 145,106,188,131,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9922598_Enamel_Health_TP_Sensi_6oz_Carton_US.jpeg 103,134,177,174,1 168,134,241,175,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9919884_Enamel_Health_TP_Sensitive_4oz_Carton_US.jpeg 121,114,191,158,1 180,113,252,158,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/O_PCFT_P9930689_USA_Ctn.jpeg 73,200,150,245,1 139,199,224,246,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9921831_Colgate_MaxFresh_Cool_Mint_6oz_Ctn.jpeg 100,157,164,202,1 154,157,231,201,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9921659_Total_Whitening_Paste_1p9oz_Ctn_US.jpeg 98,141,172,176,1 161,140,231,177,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9921133_Total_Clean_Between_0p75oz_Ctn_US.jpeg 152,116,254,148,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9921588_Walmart_Total_Whitening_PASTE_6oz_3Pack_Overwrap_RtV1.jpeg 48,59,81,118,1 48,107,82,170,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9921830_Colgate_MaxFresh_Clean_Mint_6oz_Ctn.jpeg 100,157,164,202,1 154,156,230,201,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/O_WWT4-7_P9920328_USA_Ctn.jpeg 95,194,178,241,1 168,194,265,238,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/19527_Colgate_WMT_Total_3Pack_Gel_P9929422_81418.jpeg 153,48,196,83,1 111,48,163,84,1 76,48,121,84,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9918576_Total_Clean_Mint_Paste_6oz_Twin_Ctn_US.jpeg 217,252,297,300,1 141,252,226,299,1 141,205,226,251,1 217,205,296,251,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9922599_Enamel_Health_TP_MP_6oz_Carton_US.jpeg 102,134,178,175,1 168,133,241,176,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9919882_Enamel_Health_TP_Whitening_4oz_Carton_US.jpeg 121,113,251,158,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/19527_Colgate_WMT_Total_3Pack_CleanMintPASTE_P9929990_81418.jpeg 153,48,197,84,1 111,49,163,84,1 77,49,121,84,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9922758_Enamel_Health_TP_MP_6oz_Carton_US_SS.jpeg 103,134,178,175,1 167,134,240,176,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/19527_Colgate_Total_Whitening_Paste_2PACK_Label_81518-1.jpeg 172,52,219,94,1 210,52,258,95,1 248,52,309,84,1 172,90,219,131,1 210,90,257,131,1 248,90,309,122,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/O_PWLT1_075_P9930946_USA_CTN.jpeg 157,82,309,137,1 157,134,309,176,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9922564_Hydris_TP_4p5oz_CTN_US.jpeg 122,119,197,165,1 187,120,261,164,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9919901_Enamel_Health_TP_Multi_Prot_4oz_Carton_US.jpeg 121,113,190,158,1 181,114,253,158,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/[19023]P9924238_cp_PeppaPigEasterRegimen_120117.jpeg 78,123,113,164,1 117,120,153,166,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9921861_OW_IcyFresh_5oz_TwinPak_FrntLbl_RtV1-1.jpeg 212,136,272,182,1 129,136,222,183,1
+/data/tmp/nutrition_label_dataset_abon_resized/toothpastes/US_toothpastes/P9918016_Total_Clean_Mint_Paste_1p9oz_Ctn_US.jpeg 97,141,170,176,1 160,141,230,176,1
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/cocoa_pebbles/00884912002464_PF_PDF__.jpg 203,101,243,265,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/cocoa_pebbles/00884912129659_PF_PDF__.jpg 200,75,242,259,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/cocoa_pebbles/00884912129512_PF_PDF__.jpg 341,53,382,235,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/post/00884912068859_PF_PDF__.jpg 332,75,368,217,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/honey_bunches_of_oats/00884912003416_PF_.jpg 216,32,359,75,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/great_grains/00884912116505_PF_PDF__.jpg 336,60,382,279,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/great_grains/00884912320476_PF_PDF__.jpg 343,109,382,297,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/great_grains/00884912320490_PF_PDF__.jpg 342,108,382,286,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/great_grains/00884912102102_PF_PDF__.jpg 336,55,381,274,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/great_grains/00884912126016_PF_PDF__.jpg 335,60,381,262,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/great_grains/00884912126115_PF_PDF__.jpg 336,61,381,263,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/great_grains/00884912320483_PF_PDF__.jpg 342,108,381,286,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/great_grains/00884912002372_PF_PDF__.jpg 336,60,381,278,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/great_grains/00884912126153_PF_PDF__.jpg 336,62,373,208,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/mom_s_best/00883978079786_PF_PDF__.jpg 204,94,246,248,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/mom_s_best/00042400237105_PF_PDF__.jpg 202,102,245,268,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/mom_s_best/00042400213994_PF_PDF__.jpg 296,102,333,234,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/mom_s_best/00883978144446_PF_PDF__.jpg 199,79,243,245,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/mom_s_best/00883978072503_PF_PDF__.jpg 208,92,248,240,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/mom_s_best/00883978129115_PF_PDF__.jpg 199,65,243,243,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/mom_s_best/00883978095984_PF_PDF__.jpg 202,102,245,268,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/mom_s_best/00042400061021_PF_PDF__.jpg 338,108,375,244,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/mom_s_best/00883978063754_PF_PDF__.jpg 206,95,245,248,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/mom_s_best/00883978145979_PF_PDF__.jpg 203,101,245,269,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/mom_s_best/00042400282679_PF_PDF__.jpg 298,103,334,232,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/mom_s_best/00883978322417_PF_PDF__.jpg 343,107,384,248,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/mom_s_best/00042400277439_PF_PDF__.jpg 343,108,383,242,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/mom_s_best/00883978096028_PF_PDF__.jpg 342,97,383,247,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/mom_s_best/00883978096035_PF_PDF__.jpg 202,102,245,269,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/mom_s_best/00883978079793_PF_PDF__.jpg 205,76,246,248,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/mom_s_best/00042400214113_PF_PDF__.jpg 298,111,334,236,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/mom_s_best/00042400061038_PF_PDF__.jpg 207,94,248,240,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/mom_s_best/00883978322424_PF_PDF__.jpg 337,112,374,244,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/mom_s_best/00883978079755_PF_PDF__.jpg 208,94,247,241,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/mom_s_best/00883978147263_PF_PDF__.jpg 202,99,240,257,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/mom_s_best/00042400277422_PF_PDF__.jpg 337,112,374,232,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/fruity_pebbles/00884912288141_PF_PDF__.jpg 203,85,242,239,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/fruity_pebbles/00884912002457_PF_PDF__.jpg 349,87,390,282,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/fruity_pebbles/00884912129710_PF_PDF__.jpg 199,54,240,245,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/fruity_pebbles/00884912249289_PF_PDF__.jpg 349,102,385,260,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/fruity_pebbles/00884912129741_PF_PDF__.jpg 201,80,240,259,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400038153_PF_.jpg 123,77,180,194,2 235,74,292,190,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400150503_PF_PDF__.jpg 205,90,247,248,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400009542_PF_PDF__.jpg 116,170,261,241,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400028543_PF_PDF__.jpg 294,97,334,250,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400240839_PF_PDF__.jpg 291,92,331,245,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400283249_PF_PDF__.jpg 290,100,331,256,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400044000_PF_PDF__.jpg 289,96,327,235,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400274902_PF_PDF__.jpg 300,100,343,260,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400285595_PF_PDF__.jpg 289,97,328,234,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400225089_PF_PDF__.jpg 215,104,252,238,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400141280_PF_PDF__.jpg 211,90,253,232,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400000723_PF_PDF__.jpg 293,92,331,221,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400006152_PF_.jpg 118,102,180,220,2 237,101,296,219,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400013150_PF_PDF__.jpg 124,76,180,194,2 236,73,291,190,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400280262_PF_PDF__.jpg 298,121,338,277,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400045175_PF_PDF__.jpg 284,94,326,243,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400232988_PF_PDF__.jpg 289,88,323,205,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400069232_PF_PDF__.jpg 295,83,335,226,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400226871_PF_PDF__.jpg 302,105,342,257,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400283393_PF_PDF__.jpg 298,85,333,223,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400939788_PF_PDF__.jpg 295,86,335,239,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400000730_PF_PDF__.jpg 293,92,331,220,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400148647_PF_PDF__.jpg 294,113,334,270,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400044215_PF_PDF__.jpg 292,99,332,249,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400912781_PF_PDF__.jpg 294,117,335,267,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400075080_PF_PDF__.jpg 293,83,332,221,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400108153_PF_PDF__.jpg 204,84,247,237,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400293965_PF_PDF__.jpg 299,99,340,243,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400086765_PF_.jpg 116,171,259,241,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400277484_PF_PDF__.jpg 297,91,333,218,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400268048_PF_PDF__.jpg 296,125,335,277,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400137177_PF_PDF__.jpg 295,91,331,216,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400227779_PF_PDF__.jpg 296,89,332,225,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400136262_PF_PDF__.jpg 200,75,245,223,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400258841_PF_PDF__.jpg 294,97,334,240,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400913788_PF_PDF__.jpg 302,105,342,255,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400268024_PF_PDF__.jpg 299,91,337,239,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400189138_PF_PDF__.jpg 291,102,330,251,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400120179_PF_PDF__.jpg 287,95,325,231,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400265153_PF_PDF__.jpg 291,87,330,231,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400109358_PF_PDF__.jpg 290,52,329,186,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400084754_PF_PDF__.jpg 301,95,340,237,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400238188_PF_PDF__.jpg 291,97,330,258,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400084907_PF_PDF__.jpg 286,58,324,199,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400259473_PF_PDF__.jpg 304,82,342,216,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400258858_PF_PDF__.jpg 296,128,336,277,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400039006_PF_PDF__.jpg 283,85,326,242,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400108054_PF_PDF__.jpg 201,94,246,268,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400213550_PF_PDF__.jpg 200,58,245,224,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400039150_PF_PDF__.jpg 124,76,180,193,2 235,74,291,190,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400265306_PF_PDF__.jpg 294,108,332,247,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400037002_PF_PDF__.jpg 286,101,325,256,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400069409_PF_PDF__.jpg 315,87,352,214,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400244998_PF_PDF__.jpg 293,88,334,239,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400069225_PF_PDF__.jpg 294,86,335,235,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400204763_PF_PDF__.jpg 300,103,336,234,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400936787_PF_PDF__.jpg 299,124,336,276,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400244981_PF_PDF__.jpg 286,104,324,241,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400188995_PF_PDF__.jpg 294,97,335,240,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400265252_PF_PDF__.jpg 299,91,337,235,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400138204_PF_PDF__.jpg 117,172,259,241,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400108207_PF_PDF__.jpg 205,86,247,224,2
+/data/tmp/nutrition_label_dataset_abon_resized/post_consumer_brands/malt_o_meal/00042400214434_PF_PDF__.jpg 200,60,246,223,2
